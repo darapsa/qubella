@@ -1,0 +1,19 @@
+import QmlProject 1.1
+
+Project {
+	mainFile: "ModelsFlickable.qml"
+
+	QmlFiles {
+		directory: "."
+	}
+
+	Files {
+		filter: "*.ttf"
+	}
+
+	qdsVersion: "3.9"
+	quickVersion: "2.15"
+	multilanguageSupport: true
+	supportedLanguages: ["en", "id"]
+	primaryLanguage: "en"
+}
