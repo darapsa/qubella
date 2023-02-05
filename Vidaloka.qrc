@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+	<qresource prefix="qubella">
+		<file>Vidaloka/Vidaloka-Regular.ttf</file>
+	</qresource>
+</RCC>

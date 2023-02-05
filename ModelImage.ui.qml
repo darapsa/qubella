@@ -40,7 +40,7 @@ Image {
 				id: button
 				text: "Helen"
 				font {
-					family: vidaloka
+					family: vidaloka.name
 					pixelSize: 40
 				}
 				contentItem: Text {
